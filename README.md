@@ -1,8 +1,7 @@
-#  Friday 8<sup>th</sup> Jan 2021
+# Friday 8<sup>th</sup> Jan 2021
 
 | 11:15 AM | 19 weeks until NIMCET |
 | -------- | --------------------: |
-|          |                       |
 
 ## Target
 
@@ -57,4 +56,3 @@
 |          |       |                               |
 |          |       |                               |
 |          |       |                               |
-

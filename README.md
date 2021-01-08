@@ -1,7 +1,5 @@
 #  Friday 8<sup>th</sup> Jan 2021
 
-<link rel="stylesheet" type="text/css" media="all" href="./whitey.css" />
-
 | 11:15 AM | 19 weeks until NIMCET |
 | -------- | --------------------: |
 |          |                       |

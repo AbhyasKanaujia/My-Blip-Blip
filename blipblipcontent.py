@@ -31,7 +31,7 @@ def getTargets(targets) -> str:
         str: formatted table with heading and table for target section
     """
     return"""## Target
-| Number |Category|      |Task| Estimated Time | Actual Time |
+|  |Category|      |Task| Estimated Time | Actual Time |
 | - | -: | - | - | - | - |
 {previousTargets}""".format(previousTargets=targets)
 
@@ -89,7 +89,6 @@ def addTargetNumber(target, number) -> str:
     """
     targetPropeties = target.split("|")
     targetPropeties[1] = str(number)
-    print(" | ".join(targetPropeties))
     return " | ".join(targetPropeties)
 
 ################## BLIP BLIP TABLE ##################
@@ -106,14 +105,15 @@ def generateBlipBlip(date) -> str:
     """
     table = """## Blip Blip
 
-| Number |Time|Progress| Achievement   |
+| |Time|Progress| Achievement   |
 | - | - | - | - |
 """
     time = getLastBlipTime()
     number = 1
     while time.date().day == datetime.now().date().day:
-        row = "| " + str(number) + " | " + getFormattedTime(time) + " | | | | |"
-        time=getNextBlipTimeAfter(time)
+        row = "| " + str(number) + " | " + \
+            getFormattedTime(time) + " | | | | |"
+        time = getNextBlipTimeAfter(time)
         number += 1
         table += row + "\n"
     return table

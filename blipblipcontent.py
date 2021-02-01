@@ -59,6 +59,8 @@ def extractTargets(file) -> str:
             targets += previousTargets[line]
             number += 1
         line += 1
+    if number == 1:
+        targets = "|||||||"
     return targets
 
 

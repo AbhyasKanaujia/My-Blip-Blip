@@ -20,11 +20,11 @@
 | 1:00 PM  | 🧪    | Zero Level Function 1 |             |
 | 1:15 PM  | 🧪    | Zero Level Function 1 |             |
 | 1:30 PM  | 🧪    | Zero Level Function 1 |             |
-| 1:45 PM  | 💛    | Babu                  |             |
-| 2:00 PM  | 💛    | Babu                  |             |
-| 2:15 PM  | 💛    | Babu                  |             |
-| 2:30 PM  | 💛🍜🍎🍳 | Babu \| Lunch         |             |
-| 2:45 PM  | 💛    | Babu                  |             |
+| 1:45 PM  | 📞    | Dost                  |             |
+| 2:00 PM  | 📞    | Dost                  |             |
+| 2:15 PM  | 📞    | Dost                  |             |
+| 2:30 PM  | 📞🍜🍎🍳 | Dost \| Lunch         |             |
+| 2:45 PM  | 📞    | Dost                  |             |
 | 3:00 PM  | ⌚    | Break                 |             |
 | 3:15 PM  | 🧪    | Zero Level Function 1 |             |
 

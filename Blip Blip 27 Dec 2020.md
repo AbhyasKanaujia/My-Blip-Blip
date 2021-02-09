@@ -25,11 +25,11 @@
 | **3:00 PM** :clock3:   |          📖 | Trigonometry (Solution of Properties of a Triangle) Class    |
 | 3:15 PM                |          📖 | Trigonometry (Solution of Properties of a Triangle) Class    |
 | 3:30 PM :clock330:     |          📖 | Trigonometry (Solution of Properties of a Triangle) Class    |
-| 3:45 PM                |          💛 | Babu se baat                                                 |
-| **4:00 PM** :clock4:   |          💛 | Babu se baat                                                 |
-| 4:15 PM                |          💛 | Babu se baat                                                 |
-| 4:30 PM :clock430:     |          💛 | Babu se baat                                                 |
-| 4:45 PM                |          💛 | Babu se baat                                                 |
+| 3:45 PM                |          📞 | Dost se baat                                                 |
+| **4:00 PM** :clock4:   |          📞 | Dost se baat                                                 |
+| 4:15 PM                |          📞 | Dost se baat                                                 |
+| 4:30 PM :clock430:     |          📞 | Dost se baat                                                 |
+| 4:45 PM                |          📞 | Dost se baat                                                 |
 | **5:00 PM** :clock5:   |  :printer: | Printing                                                     |
 | 5:15 PM                |          📖 | **Properties of Triangles Homework of 30 Dec**               |
 | 5:30 PM :clock530:     |          📖 | Properties of Triangles Homework of 30 Dec                   |
@@ -37,9 +37,9 @@
 | **6:00 PM** :clock6:   |          📖 | Properties of Triangles Homework of 30 Dec                   |
 | 6:15 PM                |          📖 | Properties of Triangles Homework of 30 Dec                   |
 | 6:30 PM :clock630:     |          📖 | **Trigonometry (Solution of Properties of a Triangle) Class** |
-| 6:45 PM                |          💛 | Babu se baat                                                 |
-| **7:00 PM** :clock7:   |          💛 | Babu se baat                                                 |
-| 7:15 PM                |          💛 | Babu se baat                                                 |
+| 6:45 PM                |          📞 | Dost se baat                                                 |
+| **7:00 PM** :clock7:   |          📞 | Dost se baat                                                 |
+| 7:15 PM                |          📞 | Dost se baat                                                 |
 | 7:30 PM :clock730:     | :clock730: | Dinner waiting                                               |
 |                        |            |                                                              |
 |                        |            |                                                              |

@@ -52,8 +52,8 @@
 | 6:30 PM  |    🖨 | Printed Poster                                               |                          |
 | 6:45 PM  |    🧪 | Prepare for test                                             |                          |
 | 7:00 PM  |    🧪 | Test                                                         |                          |
-| 7:15 PM  |    🧪 | Test \| Babu se baat                                         |                          |
-| 7:45 PM  |   💛⌚ | Dinner                                                       |                          |
+| 7:15 PM  |    🧪 | Test \| Dost se baat                                         |                          |
+| 7:45 PM  |   �⌚ | Dinner                                                       |                          |
 | 8:00 PM  |    🍽 | Dinner                                                       |                          |
 | 8:15 PM  |    🍽 | Dinner                                                       |                          |
 | 8:30 PM  |    🦷 | Brush                                                        |                          |

@@ -17,11 +17,11 @@
 | 3:15 PM  | 📃 Setup Blip Blip                    |             |
 | 3:30 PM  | 👨‍🏫 Sets Class 5 00:00/1:27:00        | 25 min      |
 | 3:45 PM  | 👨‍🏫 Sets Class 5 25:00/1:27:00        | 25 min      |
-| 4:00 PM  | ☕ Babu                               |             |
-| 4:15 PM  | ☕ Babu                               |             |
-| 4:30 PM  | ☕ Babu                               |             |
-| 4:45 PM  | ☕ Babu                               |             |
-| 5:00 PM  | ☕ Babu 👨‍🏫 Sets Class 5 50:00/1:27:00 | 5 min       |
+| 4:00 PM  | ☕ Dost                               |             |
+| 4:15 PM  | ☕ Dost                               |             |
+| 4:30 PM  | ☕ Dost                               |             |
+| 4:45 PM  | ☕ Dost                               |             |
+| 5:00 PM  | ☕ Dost 👨‍🏫 Sets Class 5 50:00/1:27:00 | 5 min       |
 | 5:15 PM  | 👨‍🏫 Sets Class 5 1:20:00/1:27:00      | 30 min      |
 | 5:30 PM  | 👨‍🏫 Sets Class 5 1:27:00/1:27:00      | 7 min       |
 | 5:45 PM  | 👨‍🏫 Sets Class 6 00:00/1:25:00        | 22 min      |

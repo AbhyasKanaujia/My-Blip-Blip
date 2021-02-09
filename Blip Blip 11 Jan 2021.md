@@ -22,7 +22,7 @@
 
 | Time     |      | Progress                                                     |                                 |
 | -------- | ---: | ------------------------------------------------------------ | ------------------------------- |
-| 7:00 AM  |   🌞💛 | Wake up                                                      |                                 |
+| 7:00 AM  |   🌞📞 | Wake up                                                      |                                 |
 | 7:15 AM  |    🚽 | Potty                                                        |                                 |
 | 7:30 AM  |    🚽 | Potty                                                        |                                 |
 | 7:45 AM  |    🥣 | Breakfast                                                    |                                 |
@@ -37,7 +37,7 @@
 | 10:00 AM |    🖨 | Discipline poster                                            |                                 |
 | 10:15 AM |    📝 | Setup blip blip                                              |                                 |
 | 10:30 AM |   5️⃣📞 | ✔ Sunday maths. test correction \| Reshma                    |                                 |
-| 10:45 AM |    💛 | Babu                                                         | 💛💋                              |
+| 10:45 AM |    📞 | Dost                                                         | 📞💋                              |
 | 11:00 AM |    5️⃣ | ✔ Sunday maths. test correction                              |                                 |
 | 11:15 AM |    5️⃣ | ✔ Sunday maths. test correction                              |                                 |
 | 11:30 AM |    🥛 | Milk                                                         |                                 |
@@ -50,7 +50,7 @@
 | 1:15 PM  |   🍚📺 | Lunch \| YouTube                                             |                                 |
 | 1:30 PM  |   📝🖨 | Planning \| Prepare for 🏠 Reasoning Homework Problems on train Train |                                 |
 | 1:45 PM  |    9️⃣ | Planning \| 🏠 Reasoning Homework Problems on train Train Q 1 | 6 Questions                     |
-| 2:00 PM  |    💛 | Babu                                                         | 💛                               |
+| 2:00 PM  |    📞 | Dost                                                         | 📞                               |
 | 2:15 PM  |   💪9️⃣ | Pushups \| 🏠 Reasoning Homework Problems on train Train Q 7  | 20 ups 20 squats \| 3 Questions |
 | 2:30 PM  |    9️⃣ | 🏠 Reasoning Homework Problems on train Train Q 10            | 9 Questions                     |
 | 2:45 PM  |    9️⃣ | 🏠 Reasoning Homework Problems on train Train Q 19 \| Correction | 2  Questions                    |
@@ -59,14 +59,14 @@
 | 3:30 PM  |    🌎 | Search RD Sharma                                             |                                 |
 | 3:45 PM  |    🌎 | Search RD Sharma                                             |                                 |
 | 4:00 PM  |    📞 | Keshav Call                                                  |                                 |
-| 4:15 PM  |    💛 | Babu                                                         | 💛                               |
-| 4:30 PM  |    💛 | Babu                                                         | 💛                               |
-| 4:45 PM  |    💛 | Babu                                                         | 💛                               |
-| 5:00 PM  |    💛 | Babu                                                         | 💛                               |
-| 5:15 PM  |    💛 | Babu                                                         | 💛                               |
-| 5:30 PM  |    💛 | Babu                                                         | 💛                               |
-| 5:45 PM  |    💛 | Babu                                                         | 💛                               |
-| 6:00 PM  |    💛 | Babu                                                         | 💛 Exercise                      |
+| 4:15 PM  |    📞 | Dost                                                         | 📞                               |
+| 4:30 PM  |    📞 | Dost                                                         | 📞                               |
+| 4:45 PM  |    📞 | Dost                                                         | 📞                               |
+| 5:00 PM  |    📞 | Dost                                                         | 📞                               |
+| 5:15 PM  |    📞 | Dost                                                         | 📞                               |
+| 5:30 PM  |    📞 | Dost                                                         | 📞                               |
+| 5:45 PM  |    📞 | Dost                                                         | 📞                               |
+| 6:00 PM  |    📞 | Dost                                                         | 📞 Exercise                      |
 | 6:15 PM  |    0️⃣ | 🧪 TWPT Function 1                                            |                                 |
 | 6:30 PM  |    0️⃣ | 🧪 TWPT Function 1                                            | 82% score                       |
 | 6:45 PM  |   0️⃣✔ | 🧪 TWPT Function 1 Correction 1/9                             | 3 Questions                     |
@@ -77,7 +77,7 @@
 | 8:00 PM  |    😋 | Dinner                                                       |                                 |
 | 8:15 PM  |    🦷 | Brush                                                        |                                 |
 | 8:30 PM  |    📺 | YouTube                                                      |                                 |
-| 8:45 PM  |    💛 | Babu                                                         |                                 |
+| 8:45 PM  |    📞 | Dost                                                         |                                 |
 | 9:00 PM  |    📝 | Update blip blip                                             |                                 |
 | 9:15 PM  |   0️⃣✔ | 🧪 TWPT Function 1 Correction 4 /9                            | 5 Questions                     |
 | 9:30 PM  |   0️⃣✔ | 🧪 TWPT Function 1 Correction 9 /9                            |                                 |

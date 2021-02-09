@@ -46,7 +46,7 @@
 | 7:45 PM  |    😋 | Dinner                                           |             |
 | 8:00 PM  |    😋 | Dinner                                           |             |
 | 8:15 PM  |    🦷 | Brush                                            |             |
-| 8:30 PM  |  💛1️⃣✔ | Babu \| Correction DPT Function 1                |             |
+| 8:30 PM  |  📞1️⃣✔ | Dost \| Correction DPT Function 1                |             |
 | 8:45 PM  |   1️⃣✔ | Correction DPT Function 1                        |             |
 | 9:00 PM  |   1️⃣✔ | Correction DPT Function 1                        |             |
 | 9:15 PM  |    2️⃣ | Prepare for DPT Function 2                       |             |

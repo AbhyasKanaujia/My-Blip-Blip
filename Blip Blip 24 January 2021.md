@@ -27,12 +27,12 @@
 | 6 | 10:45 AM | 🧪 Sunday test | |
 | 7 | 11:00 AM | 🧪 Sunday test | |
 | 8 | 11:15 AM | 🧪 Sunday test | |
-| 9 | 11:30 AM | 💛 Babu | |
+| 9 | 11:30 AM | 📞 Dost | |
 | 10 | 11:45 AM | 🍳 Breakfast | |
 | 11 | 12:00 PM | 👨 Papa kaam | |
-| 12 | 12:15 PM | 💛 Babu Chart 📈 | |
-| 13 | 12:30 PM | 💛 Babu Chart 📈 | |
-| 14 | 12:45 PM | 💛 Babu Chart 📈 | |
+| 12 | 12:15 PM | 📞 Dost Chart 📈 | |
+| 13 | 12:30 PM | 📞 Dost Chart 📈 | |
+| 14 | 12:45 PM | 📞 Dost Chart 📈 | |
 | 15 | 01:00 PM | | |
 | 16 | 01:15 PM | | |
 | 17 | 01:30 PM | | |

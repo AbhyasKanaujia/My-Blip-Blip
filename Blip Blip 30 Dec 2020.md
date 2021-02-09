@@ -14,16 +14,16 @@
 | 9:15 AM  |    🆗 | Reasoning Class Speed Distance and Time - 02                 |
 | 9:30 AM  |    ⌚ | Breakfast waiting                                            |
 | 9:45 AM  |    😋 | Breakfast                                                    |
-| 10:00 AM |   😋💛 | Breakfast \| Babu se baat                                    |
-| 10:15 AM |    💛 | Babu se baat                                                 |
-| 10:30 AM |   ♒💛 | Babu se baat                                                 |
-| 10:45 AM |    💛 | Babu se baat                                                 |
-| 11:00 AM |    💛 | Babu se baat                                                 |
+| 10:00 AM |   😋📞 | Breakfast \| Dost se baat                                    |
+| 10:15 AM |    📞 | Dost se baat                                                 |
+| 10:30 AM |   ♒📞 | Dost se baat                                                 |
+| 10:45 AM |    📞 | Dost se baat                                                 |
+| 11:00 AM |    📞 | Dost se baat                                                 |
 | 11:15 AM |    🆗 | Solution of TWPT Trigonometry - 04 Part - 01 (06.12.2020) Class |
 | 11:30 AM |    🆗 | Solution of TWPT Trigonometry - 04 Part - 01 (06.12.2020) Class |
 | 11:45 AM |    🆗 | Solution of TWPT Trigonometry - 04 Part - 01 (06.12.2020) Class |
 | 12:00 PM |    🆗 | Solution of TWPT Trigonometry - 04 Part - 01 (06.12.2020) Class |
-| 12:15 PM |    💛 | Babu se baat                                                 |
+| 12:15 PM |    📞 | Dost se baat                                                 |
 | 12:30 PM |    🆗 | Solution of TWPT Trigonometry - 04 Part - 01 (06.12.2020) Class |
 | 12:45 PM |    🆗 | Solution of TWPT Trigonometry - 04 Part - 01 (06.12.2020) Class |
 | 1:00 PM  |    🆗 | Solution of TWPT Trigonometry - 04 Part - 01 (06.12.2020) Class |

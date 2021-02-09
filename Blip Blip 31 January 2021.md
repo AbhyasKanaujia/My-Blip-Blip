@@ -28,8 +28,8 @@
 | 8 | 03:45 PM | 🏢 Panchayat Office | |
 | 9 | 04:00 PM | 🏢 Panchayat Office | |
 | 10 | 04:15 PM | 🏢 Panchayat Office | |
-| 11 | 04:30 PM | 🏢 Panchayat Office \| 💛 Babu se baat | |
-| 12 | 04:45 PM | 💛 Babu se baat \|Break | |
+| 11 | 04:30 PM | 🏢 Panchayat Office \| 📞 Dost se baat | |
+| 12 | 04:45 PM | 📞 Dost se baat \|Break | |
 | 13 | 05:00 PM | Break | |
 | 14 | 05:15 PM | 👨‍🏫 26 Jan Quadratic equations 04 0:00/1:47 | 14 minutes |
 | 15 | 05:30 PM | ☕ Tea | |

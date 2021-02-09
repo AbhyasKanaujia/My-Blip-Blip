@@ -47,7 +47,7 @@
 | 23 | 09:30 PM | 👨‍🏫 22 Jan 21 Differentiation - 06  For AIMCA Batch 1:05:00/1:56:00 | 15 min |
 | 24 | 09:45 PM | 👨‍🏫 22 Jan 21 Differentiation - 06  For AIMCA Batch 1:20:00/1:56:00 | 13 min |
 | 25 | 10:00 PM | 👨‍🏫 22 Jan 21 Differentiation - 06  For AIMCA Batch 1:33:00/1:56:00 | 23 min |
-| 26 | 10:15 PM | 💛 Babu se baat \| 👨‍🏫 22 Jan 21 Algebra \| Quadratic equations - 01 0:00:00/1:24:00 | 1 min |
+| 26 | 10:15 PM | 📞 Dost se baat \| 👨‍🏫 22 Jan 21 Algebra \| Quadratic equations - 01 0:00:00/1:24:00 | 1 min |
 | 27 | 10:30 PM | 👨‍🏫 22 Jan 21 Algebra \| Quadratic equations - 01 0:01:00/1:24:00 | 5 min |
 | 28 | 10:45 PM | 👨‍🏫 22 Jan 21 Algebra \| Quadratic equations - 01 0:06:00/1:24:00 | 15 min |
 | 29 | 11:00 PM | 👨‍🏫 22 Jan 21 Algebra \| Quadratic equations - 01 0:21:00/1:24:00 | 14 min |

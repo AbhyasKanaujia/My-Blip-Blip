@@ -35,8 +35,8 @@
 | 13 | 06:00 PM | 👨‍🏫 27 Jan Calculus \| Application of Derivatives – 01 Live | |
 | 14 | 06:15 PM | 👨‍🏫 27 Jan Calculus \| Application of Derivatives – 01 Live | |
 | 15 | 06:30 PM | 📺 YouTube | |
-| 16 | 06:45 PM | 📺 YouTube \| 💛 Babu se baat | |
-| 17 | 07:00 PM | 💛 Babu se baat \| 🍚 Dinner | |
+| 16 | 06:45 PM | 📺 YouTube \| 📞 Dost se baat | |
+| 17 | 07:00 PM | 📞 Dost se baat \| 🍚 Dinner | |
 | 18 | 07:15 PM | 🍚 Dinner | |
 | 19 | 07:30 PM | 🍚 Dinner | |
 | 20 | 07:45 PM |  | |

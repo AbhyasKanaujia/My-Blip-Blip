@@ -33,8 +33,8 @@
 | 11 | 03:15 PM | 👨‍🏫 25 Jan 21 Algebra - Quadratic equations - 03 0:38:00/1:24:00 | 18 min |
 | 12 | 03:30 PM | 👨‍🏫 25 Jan 21 Algebra - Quadratic equations - 03 0:57:00/1:24:00 | 19 min |
 | 13 | 03:45 PM | 👨‍🏫 25 Jan 21 Algebra - Quadratic equations - 03 1:16:00/1:24:00 | 8 min |
-| 14 | 04:00 PM | 💛 Babu Chart Update | |
-| 15 | 04:15 PM | 💛 Babu Chart Update | |
+| 14 | 04:00 PM | 📞 Dost Chart Update | |
+| 15 | 04:15 PM | 📞 Dost Chart Update | |
 | 16 | 04:30 PM | 🖨 Homework Printing                                          |                          |
 | 17 | 04:45 PM | 📒 DPT Application of Derivatives - 01 0/30 | 6 Questions |
 | 18 | 05:00 PM | 📒 DPT Application of Derivatives - 01 7/30 | 0 Questions |
@@ -58,10 +58,10 @@
 | 36 | 09:30 PM | 📒  Zero Level - (Linear Inequations) 10/45 | 1 Questions |
 | 37 | 09:45 PM | 📒  Zero Level - (Linear Inequations) 11/45 | 1 Questions |
 | 38 | 10:00 PM | 📒  Zero Level - (Linear Inequations) 12/45 | 1  Questions |
-| 39 | 10:15 PM | 💛 Babu se baat | |
-| 40 | 10:30 PM | 💛 Babu se baat | |
-| 41 | 10:45 PM | 💛 Babu se baat | |
-| 42 | 11:00 PM | 💛 Babu se baat | |
+| 39 | 10:15 PM | 📞 Dost se baat | |
+| 40 | 10:30 PM | 📞 Dost se baat | |
+| 41 | 10:45 PM | 📞 Dost se baat | |
+| 42 | 11:00 PM | 📞 Dost se baat | |
 | 43 | 11:15 PM | 📒  Zero Level - (Linear Inequations) 13/45 | 2  Questions |
 | 44 | 11:30 PM | 📒  Zero Level - (Linear Inequations) 16/45 | 1 Questions |
 | 45 | 11:45 PM | 📒  Zero Level - (Linear Inequations) 17/45 | 2  Questions |

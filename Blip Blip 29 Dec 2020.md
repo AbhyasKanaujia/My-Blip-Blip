@@ -6,7 +6,7 @@
 | **12:00 PM** | :aquarius::ok: | TWPT Functions Homework 28 Dec **12 questions** upto 34      |
 | 12:15 PM     |           :ok: | TWPT Functions Homework 28 Dec **6 questions** upto 41       |
 | 12:30 PM     |              🆗 | TWPT Functions Homework 28 Dec **6 questions** upto 47       |
-| 12:45 PM     |             🆗💛 | TWPT Functions Homework 28 Dec **2 questions** upto 49 \| Babu se baat |
+| 12:45 PM     |             🆗📞 | TWPT Functions Homework 28 Dec **2 questions** upto 49 \| Dost se baat |
 | 1:00 PM      |              🔍 | Lost Formula copy. Found.                                    |
 | 1:15 PM      |              🎸 | Ukulele                                                      |
 | 1:30 PM      |              ⌚ | Waiting for lunch                                            |

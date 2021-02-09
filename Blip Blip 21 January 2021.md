@@ -30,25 +30,25 @@
 | 8 | 10:15 AM | 👨‍🏫 18 Jan 21 Differentiation - 02  For AIMCA Batch Class 0:15:00/1:56:00 | 15 min |
 | 9 | 10:30 AM | 👨‍🏫 18 Jan 21 Differentiation - 02  For AIMCA Batch Class 0:30:00/1:56:00 | 15 min |
 | 10 | 10:45 AM | 👨‍🏫 18 Jan 21 Differentiation - 02  For AIMCA Batch Class 0:45:00/1:56:00 | 15 min |
-| 11 | 11:00 AM | 💛 Mera baccchaaa | |
-| 12 | 11:15 AM | 💛 Mera baccchaaa | |
-| 13 | 11:30 AM | 💛 Mera baccchaaa | |
-| 14 | 11:45 AM | 💛 Mera baccchaaa | |
+| 11 | 11:00 AM | 📞 Mera baccchaaa | |
+| 12 | 11:15 AM | 📞 Mera baccchaaa | |
+| 13 | 11:30 AM | 📞 Mera baccchaaa | |
+| 14 | 11:45 AM | 📞 Mera baccchaaa | |
 | 15 | 12:00 PM | 🚽 Potty | |
 | 16 | 12:15 PM | 📺 YouTube | |
-| 17 | 12:30 PM | 📺 YouTube \| Babu waiting | |
+| 17 | 12:30 PM | 📺 YouTube \| Dost waiting | |
 | 18 | 12:45 PM | ⌚ Lunch | |
 | 19 | 01:00 PM | 🍚 Lunch | |
 | 20 | 01:15 PM | 👨‍🏫 18 Jan 21 Differentiation - 02  For AIMCA Batch Class 1:00:00/1:56:00 | 18 min |
 | 21 | 01:30 PM | 👨‍🏫 18 Jan 21 Differentiation - 02  For AIMCA Batch Class 1:18:00/1:56:00 | 15 min |
 | 22 | 01:45 PM | 👨‍🏫 18 Jan 21 Differentiation - 02  For AIMCA Batch Class 1:33:00/1:56:00 | 20 min |
 | 23 | 02:00 PM | 👨‍🏫 18 Jan 21 Differentiation - 02  For AIMCA Batch Class 1:53:00/1:56:00 | 3 min |
-| 24 | 02:15 PM | 💛 Babu | |
-| 25 | 02:30 PM | 💛 Babu | |
+| 24 | 02:15 PM | 📞 Dost | |
+| 25 | 02:30 PM | 📞 Dost | |
 | 26 | 02:45 PM | 🐍 Python | |
 | 27 | 03:00 PM | 🐍 Python | |
-| 28 | 03:15 PM | 💛 Babu | |
-| 29 | 03:30 PM | 💛 Babu \| ✏ Formula Listing | |
+| 28 | 03:15 PM | 📞 Dost | |
+| 29 | 03:30 PM | 📞 Dost \| ✏ Formula Listing | |
 | 30 | 03:45 PM | 📞 Keshav | |
 | 31 | 04:00 PM | ✏ Formula Listing | |
 | 32 | 04:15 PM | 🖨 Test Sheet | |
@@ -61,17 +61,17 @@
 | 39 | 06:00 PM | 📒 18 Jan 21 ["DPT Differentiation - 01 (18.01.2021).pdf"](https://live.impetusgurukul.com/?route=item/descriptivetest&file=aHR0cDovL3RyLWF0dGFjaG1lbnRzLnMzLWFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vQVMvMjIzZDMyL3F1ZS8wMjU4MjIxMDE3NWI2LURQVCBEaWZmZXJlbnRpYXRpb24gLSAwMSAoMTguMDEuMjAyMSkucGRm) Homework 11/30 Q | 6 Questions |
 | 40 | 06:15 PM | 📒 18 Jan 21 ["DPT Differentiation - 01 (18.01.2021).pdf"](https://live.impetusgurukul.com/?route=item/descriptivetest&file=aHR0cDovL3RyLWF0dGFjaG1lbnRzLnMzLWFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vQVMvMjIzZDMyL3F1ZS8wMjU4MjIxMDE3NWI2LURQVCBEaWZmZXJlbnRpYXRpb24gLSAwMSAoMTguMDEuMjAyMSkucGRm) Homework 17/30 Q | 9 Questions |
 | 41 | 06:30 PM | 📒 18 Jan 21 ["DPT Differentiation - 01 (18.01.2021).pdf"](https://live.impetusgurukul.com/?route=item/descriptivetest&file=aHR0cDovL3RyLWF0dGFjaG1lbnRzLnMzLWFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vQVMvMjIzZDMyL3F1ZS8wMjU4MjIxMDE3NWI2LURQVCBEaWZmZXJlbnRpYXRpb24gLSAwMSAoMTguMDEuMjAyMSkucGRm) Homework 26/30 Q | 5 Questions |
-| 42 | 06:45 PM | 💛 Babu | |
-| 43 | 07:00 PM | 💛 Babu | |
-| 44 | 07:15 PM | 💛 Babu | |
+| 42 | 06:45 PM | 📞 Dost | |
+| 43 | 07:00 PM | 📞 Dost | |
+| 44 | 07:15 PM | 📞 Dost | |
 | 45 | 07:30 PM | 🍚 Dinner | |
 | 46 | 07:45 PM | 🍚 Dinner | |
-| 47 | 08:00 PM | 💛 Babu | |
-| 48 | 08:15 PM | 💛 Babu                                                       | |
-| 49 | 08:30 PM | 💛 Babu | |
-| 50 | 08:45 PM | 💛 Babu | |
-| 51 | 09:00 PM | 💛 Babu | |
-| 52 | 09:15 PM | 💛 Babu | |
+| 47 | 08:00 PM | 📞 Dost | |
+| 48 | 08:15 PM | 📞 Dost                                                       | |
+| 49 | 08:30 PM | 📞 Dost | |
+| 50 | 08:45 PM | 📞 Dost | |
+| 51 | 09:00 PM | 📞 Dost | |
+| 52 | 09:15 PM | 📞 Dost | |
 | 53 | 09:30 PM | 👨‍🏫 19 Jan 21 Differentiation - 03  For AIMCA Batch Class 0:00:00/1:37:00 | 16 min |
 | 54 | 09:45 PM | 👨‍🏫 19 Jan 21 Differentiation - 03  For AIMCA Batch Class 0:16:00/1:37:00 | 16 min |
 | 55 | 10:00 PM | 👨‍🏫 19 Jan 21 Differentiation - 03  For AIMCA Batch Class 0:32:00/1:37:00 | |

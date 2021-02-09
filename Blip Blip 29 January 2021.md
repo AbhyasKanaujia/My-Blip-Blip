@@ -26,8 +26,8 @@
 | 3 | 01:00 PM | | |
 | 4 | 01:15 PM | | |
 | 5 | 01:30 PM | 📃 Update List | |
-| 6 | 01:45 PM | 💛 Babu se baat | |
-| 7 | 02:00 PM | 💛 Babu se baat \| 📒 22 Jan TWPT Differentiation - 01 9/38 | 2 Questions |
+| 6 | 01:45 PM | 📞 Dost se baat | |
+| 7 | 02:00 PM | 📞 Dost se baat \| 📒 22 Jan TWPT Differentiation - 01 9/38 | 2 Questions |
 | 8 | 02:15 PM | 📒 22 Jan TWPT Differentiation - 01 11/38 | 3 Questions |
 | 9 | 02:30 PM | 😋 Lunch                                                   |             |
 | 10 | 02:45 PM | 😋 Lunch | |

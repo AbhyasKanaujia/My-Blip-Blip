@@ -23,7 +23,7 @@
 | **5:00 PM**  |                     🖨 | Printing                                                  |
 | 5:15 PM      | :shallow_pan_of_food: | Snacks: Masala Oats \| Reading                            |
 | 5:30 PM      |                     🆗 | Functions DPT 1 Solutions Class                           |
-| 5:45 PM      |                     💛 | Babu se baat                                              |
+| 5:45 PM      |                     📞 | Dost se baat                                              |
 | **6:00 PM**  |                     🆗 | Functions DPT 1 Solutions Class                           |
 | 6:15 PM      |                     🆗 | Functions DPT 1 Solutions Class                           |
 | 6:30 PM      |                     🆗 | Functions DPT 1 Solutions Class                           |
@@ -34,9 +34,9 @@
 | 7:45 PM      |                     🍚 | Dinner                                                    |
 | **8:00 PM**  |                    ♒🍚 | Dinner                                                    |
 | 8:15 PM      |                    🔥✌ | Break                                                     |
-| 8:30 PM      |                    📈💛 | Fiddling with Google Sheets \| Babu se baat               |
-| 8:45 PM      |                     💛 | Babu se baat                                              |
-| **9:00 PM**  |                     💛 | Babu se baat                                              |
+| 8:30 PM      |                    📈📞 | Fiddling with Google Sheets \| Dost se baat               |
+| 8:45 PM      |                     📞 | Dost se baat                                              |
+| **9:00 PM**  |                     📞 | Dost se baat                                              |
 | 9:15 PM      |                     🆗 | Functions DPT 1 Solutions Class                           |
 | 9:30 PM      |                     🆗 | Functions DPT 1 Solutions Class                           |
 | 9:45 PM      |                     🆗 | Functions DPT 1 Solutions Class                           |

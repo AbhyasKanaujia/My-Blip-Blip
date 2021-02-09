@@ -49,7 +49,7 @@
 | 1:15 PM  |    🚽 | Potty                                                        |             |
 | 1:30 PM  |    😋 | Lunch                                                        |             |
 | 1:45 PM  |    😋 | Lunch                                                        |             |
-| 2:00 PM  |    💛 | Babu                                                         |             |
+| 2:00 PM  |    📞 | Dost                                                         |             |
 | 2:15 PM  |    3️⃣ | 👨‍🏫 Set and Relation - 04 10:00/1:24:00                       | 10 min      |
 | 2:30 PM  |    3️⃣ | 👨‍🏫 Set and Relation - 04 23:00/1:24:00                       | 13 min      |
 | 2:45 PM  |    3️⃣ | 👨‍🏫 Set and Relation - 04 34:00/1:24:00                       | 11 min      |

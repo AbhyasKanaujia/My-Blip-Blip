@@ -46,17 +46,17 @@
 | 2:45 PM  |    📺 | YouTube \| Art styles                        |
 | 3:00 PM  |    📺 | YouTube \| Modern website designs            |
 | 3:15 PM  |   ✔5️⃣ | Correction                                   |
-| 3 :30 PM |   💛📃 | Babu \| Blip Blip update                     |
+| 3 :30 PM |   📞📃 | Dost \| Blip Blip update                     |
 | 3:45 PM  |    📃 | Blip Blip update                             |
 | 4:00 PM  |    ⌚ | Preparing for Correction  Sunday test maths. |
 | 4:15 PM  |    🖨 | Print Sheet for revision                     |
 | 4:30 PM  |   ✔6️⃣ | Correction  Sunday test maths.               |
 | 4:45 PM  |    🌆 | evening walk                                 |
 | 5:00 PM  |   ✔6️⃣ | Correction  Sunday test maths.               |
-| 5:15 PM  |  ✔6️⃣💛 | Correction  Sunday test maths. \| Babu       |
-| 5:30 PM  |    💛 | Babu                                         |
-| 5:45 PM  |    💛 | Babu                                         |
-| 6:00 PM  |   💛✈ | Babu \| Telegram                             |
+| 5:15 PM  |  ✔6️⃣📞 | Correction  Sunday test maths. \| Dost       |
+| 5:30 PM  |    📞 | Dost                                         |
+| 5:45 PM  |    📞 | Dost                                         |
+| 6:00 PM  |   📞✈ | Dost \| Telegram                             |
 | 6:15 PM  |   ✔6️⃣ | Correction  Sunday test maths.               |
 |          |      |                                              |
 |          |      |                                              |

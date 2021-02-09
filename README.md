@@ -5,36 +5,44 @@
 | 01:01 PM | 14.6 weeks |
 
 ## Target
+
 |  |Category|      |Task| Estimated Time | Actual Time |
 | - | -: | - | - | - | - |
-| 1 |   Mini Test   |     |   🧪 Mini Test - Trigonometry - 01   |   0:30:00   |     |
-| 2 |   RD Sharma   |  5 Exercises  |   📚 Indefinite Integrals Ex 2-13   |   2:00:00   |      |
-| 3 |  Algebra Solution Class  |     |  👨‍🏫 Solution of Mini Test - Binomial Theorem - 01  |  1:30:00  |     |
-| 4 | Calculus Homework |     | ☑ Sunday Calculus 2 Test Correction | 2:30:00 |     |
-| 5 |      |     |      |      |     |
+| 1 |   Maths Class   | ✅ |   👨‍🏫 20 Jan 21 Differentiation - 04  For AIMCA Batch Class   |   2:00:00   |     |
+| 2 |   Algebra Class   | 👨‍🏫 |   👨‍🏫 20 Jan 21 Set and Relation - 09   |   1:30:00   |  |
+| 2.5 | Calculus Homework | ✅ | 📒 20 Jan ["DPT Differentiation - 02 (20.01.2021).pdf"](https://live.impetusgurukul.com/?route=item/descriptivetest&file=aHR0cDovL3RyLWF0dGFjaG1lbnRzLnMzLWFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vQVMvMjIzZDMyL3F1ZS8wMjU4MzJiNjA3MjFkLURQVCBEaWZmZXJlbnRpYXRpb24gLSAwMiAoMjAuMDEuMjAyMSkucGRm) | 2:00:00 | 1:45:00 |
+| 3 | Maths Class | ✅ | 👨‍🏫 21 Jan 21 Differentiation - 05  For AIMCA Batch | 2:00:00 |     |
+| 4 | Algebra Class | ✅ | 👨‍🏫 21 Jan 21 Set and Relation - 10 | 1:30:00 |     |
+| 5 | Algebra Homework | ✅ | 📒 20 Jan ["TWPT Relation -01(20.01.2021).pdf"](https://live.impetusgurukul.com/?route=item/descriptivetest&file=aHR0cDovL3RyLWF0dGFjaG1lbnRzLnMzLWFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vQVMvMjIzZDMyL3F1ZS8wMjU4MmZmZWZmMGNkLVRXUFQgUmVsYXRpb24gLTAxKDIwLjAxLjIwMjEpLnBkZg==) | 2:00:00 | |
+| 6 | Aptitude Class | ✅ | 👨‍🏫 21 Jan 21 Compound Interest - 01 | 1:30:00 |     |
 
 
 ## Blip Blip
 
 | |Time|Progress| Achievement   |
 | - | - | - | - |
-| 1 | 01:00 PM | ☑ Sunday Calculus 2 Test Correction 0/50 | |
-| 2 | 01:15 PM | | |
-| 3 | 01:30 PM | | |
-| 4 | 01:45 PM | | |
-| 5 | 02:00 PM | | |
-| 6 | 02:15 PM | | |
-| 7 | 02:30 PM | | |
-| 8 | 02:45 PM | | |
-| 9 | 03:00 PM | | |
-| 10 | 03:15 PM | | |
-| 11 | 03:30 PM | | |
-| 12 | 03:45 PM | | |
-| 13 | 04:00 PM | | |
-| 14 | 04:15 PM | | |
-| 15 | 04:30 PM | | |
-| 16 | 04:45 PM | | |
-| 17 | 05:00 PM | | |
+| 1 | 11:45 AM | 📃 Setup blip blip \| 📞 Dost se baat | |
+| 2 | 12:00 PM | 📃 Setup blip blip \| 👨‍🏫 20 Jan 21 Set and Relation - 09 0:00:00/1:26:00 | 2 min |
+| 3 | 12:15 PM | 👨‍🏫 20 Jan 21 Set and Relation - 09 0:02:00/1:26:00 | 20 min |
+| 4 | 12:30 PM | 👨‍🏫 20 Jan 21 Set and Relation - 09 0:22:00/1:26:00 | 28 min |
+| 5 | 12:45 PM | 👨‍🏫 20 Jan 21 Set and Relation - 09 0:50:00/1:26:00 | 23 min |
+| 6 | 01:00 PM | 👨‍🏫 20 Jan 21 Set and Relation - 09 1:13:00/1:26:00 | 13 min |
+| 7 | 01:15 PM | 🚽 Potty 🥛 Doodh | break \| Nutrition |
+| 8 | 01:30 PM | Printing Homework |                         |
+| 9 | 01:45 PM | Print work \| 📒 20 Jan DPT Differentiation - 02 0/30 | 0 Questions |
+| 10 | 02:00 PM | 🍚 Lunch | Fulfil needs |
+| 11 | 02:15 PM | 🍚 Lunch | Fulfil needs \| YouTube |
+| 12 | 02:30 PM | 📒 20 Jan DPT Differentiation - 02 0/30 | 7 Questions |
+| 13 | 02:45 PM | 📒 20 Jan DPT Differentiation - 02 8/30 | 2 Questions |
+| 14 | 03:00 PM | 📒 20 Jan DPT Differentiation - 02 11/30 | 5 Questions |
+| 15 | 03:15 PM | 📒 20 Jan DPT Differentiation - 02 15/30 | 3 Questions |
+| 16 | 03:30 PM | 📒 20 Jan DPT Differentiation - 02 18/30 | 4 Questions |
+| 17 | 03:45 PM | 📒 20 Jan DPT Differentiation - 02 24/30 | 2 Questions |
+| 18 | 04:00 PM | 📒 20 Jan DPT Differentiation - 02 25/30 | 6 Questions |
+| 19 | 04:15 PM | 💪 Workout 21 pushups 5 crunches 5 leg ups 20 squats | Feeling good            |
+| 20 | 04:30 PM | 📞 Dost se baat | Chart update kar dia |
+| 21 | 04:45 PM |  |                         |
+| 22 | 05:00 PM |  |                         |
 | 18 | 05:15 PM | | |
 | 19 | 05:30 PM | | |
 | 20 | 05:45 PM | | |

@@ -28,7 +28,7 @@
 | 5 | 12:45 PM | 👨‍🏫 20 Jan 21 Set and Relation - 09 0:50:00/1:26:00 | 23 min |
 | 6 | 01:00 PM | 👨‍🏫 20 Jan 21 Set and Relation - 09 1:13:00/1:26:00 | 13 min |
 | 7 | 01:15 PM | 🚽 Potty 🥛 Doodh | break \| Nutrition |
-| 8 | 01:30 PM | Printing Homework \| Searching ruler 📏 | wasted |
+| 8 | 01:30 PM | Printing Homework | wasted |
 | 9 | 01:45 PM | Print work \| 📒 20 Jan DPT Differentiation - 02 0/30 | 0 Questions |
 | 10 | 02:00 PM | 🍚 Lunch | Fulfil needs |
 | 11 | 02:15 PM | 🍚 Lunch | Fulfil needs \| YouTube |
@@ -39,7 +39,7 @@
 | 16 | 03:30 PM | 📒 20 Jan DPT Differentiation - 02 18/30 | 4 Questions |
 | 17 | 03:45 PM | 📒 20 Jan DPT Differentiation - 02 24/30 | 2 Questions |
 | 18 | 04:00 PM | 📒 20 Jan DPT Differentiation - 02 25/30 | 6 Questions |
-| 19 | 04:15 PM | 📞 Dost se baat | Pareshaan thee. Ab theek hai. |
+| 19 | 04:15 PM | 💪 Workout 21 pushups 5 crunches 5 leg ups 20 squats | Feeling good            |
 | 20 | 04:30 PM | 📞 Dost se baat | Chart update kar dia |
 | 21 | 04:45 PM | 👨‍🏫 21 Jan 21 Differentiation - 05  For AIMCA Batch 0:00:00/1:40:00 | 12 min |
 | 22 | 05:00 PM | 👨‍🏫 21 Jan 21 Differentiation - 05  For AIMCA Batch 0:12:00/1:40:00 | 14 min |

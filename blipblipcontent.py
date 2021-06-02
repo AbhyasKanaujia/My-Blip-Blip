@@ -107,14 +107,14 @@ def generateBlipBlip(date) -> str:
     """
     table = """## Blip Blip
 
-| |Time|Progress| Achievement   |
+| |Time|Progress| Achievement   | |
 | - | - | - | - |
 """
     time = getLastBlipTime()
     number = 1
     while time.date().day == datetime.now().date().day:
         row = "| " + str(number) + " | " + \
-            getFormattedTime(time) + " | | | | |"
+            getFormattedTime(time) + " | | |"
         time = getNextBlipTimeAfter(time)
         number += 1
         table += row + "\n"
